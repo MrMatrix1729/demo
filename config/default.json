@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://triman:demoapp@cluster0.fxl9bf8.mongodb.net/?retryWrites=true&w=majority"
+}
